@@ -32,6 +32,6 @@ The best recorded local single-trial score for this source is **985/1000**. A la
 
 ## Draft status and license
 
-This is a local source-review draft and has not been published to a public repository or submitted to the competition. The live rank and reward badge URLs are prepared for the prospective `cuan41/github-core-clone-01` repository; source-bundle ownership is instead anchored by the wallet in `.makefun/freshness.json`. The source carries an MIT license, and the freshness anchor is preserved unchanged.
+Publication and submission status are intentionally not asserted in this README; verify GitHub and Make.fun for current status. The live rank and reward badge URLs reference the `cuan41/github-core-clone-01` repository; source-bundle ownership is anchored by the wallet in `.makefun/freshness.json`. The source carries an MIT license, and the freshness anchor is preserved unchanged.
 
 `main.ts` contains the trial lifecycle, and `app.ts` contains the forge implementation. There are no runtime package dependencies.
